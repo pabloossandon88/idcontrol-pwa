@@ -1,0 +1,1 @@
+App type PWA with vue
